@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['s0_0',['S0',['../structnonstd_1_1variants_1_1detail_1_1_s0.html',1,'nonstd::variants::detail']]],
+  ['s1_1',['S1',['../structnonstd_1_1variants_1_1detail_1_1_s1.html',1,'nonstd::variants::detail']]],
+  ['s10_2',['S10',['../structnonstd_1_1variants_1_1detail_1_1_s10.html',1,'nonstd::variants::detail']]],
+  ['s11_3',['S11',['../structnonstd_1_1variants_1_1detail_1_1_s11.html',1,'nonstd::variants::detail']]],
+  ['s12_4',['S12',['../structnonstd_1_1variants_1_1detail_1_1_s12.html',1,'nonstd::variants::detail']]],
+  ['s13_5',['S13',['../structnonstd_1_1variants_1_1detail_1_1_s13.html',1,'nonstd::variants::detail']]],
+  ['s14_6',['S14',['../structnonstd_1_1variants_1_1detail_1_1_s14.html',1,'nonstd::variants::detail']]],
+  ['s15_7',['S15',['../structnonstd_1_1variants_1_1detail_1_1_s15.html',1,'nonstd::variants::detail']]],
+  ['s2_8',['S2',['../structnonstd_1_1variants_1_1detail_1_1_s2.html',1,'nonstd::variants::detail']]],
+  ['s3_9',['S3',['../structnonstd_1_1variants_1_1detail_1_1_s3.html',1,'nonstd::variants::detail']]],
+  ['s4_10',['S4',['../structnonstd_1_1variants_1_1detail_1_1_s4.html',1,'nonstd::variants::detail']]],
+  ['s5_11',['S5',['../structnonstd_1_1variants_1_1detail_1_1_s5.html',1,'nonstd::variants::detail']]],
+  ['s6_12',['S6',['../structnonstd_1_1variants_1_1detail_1_1_s6.html',1,'nonstd::variants::detail']]],
+  ['s7_13',['S7',['../structnonstd_1_1variants_1_1detail_1_1_s7.html',1,'nonstd::variants::detail']]],
+  ['s8_14',['S8',['../structnonstd_1_1variants_1_1detail_1_1_s8.html',1,'nonstd::variants::detail']]],
+  ['s9_15',['S9',['../structnonstd_1_1variants_1_1detail_1_1_s9.html',1,'nonstd::variants::detail']]],
+  ['storage_5ft_16',['storage_t',['../unionnonstd_1_1optional__lite_1_1detail_1_1storage__t.html',1,'nonstd::optional_lite::detail::storage_t&lt; T &gt;'],['../unionnonstd_1_1optional__lite_1_1detail_1_1storage__t.html#a8a2cfcbee5187f6a4d5f5eb3e0f359bd',1,'nonstd::optional_lite::detail::storage_t::storage_t()']]],
+  ['string_5fview_5flite_5fmajor_17',['string_view_lite_MAJOR',['../_tabulate_8h.html#a47ee53042f67fe78d55ec0ff91a1d3a3',1,'Tabulate.h']]],
+  ['string_5fview_5flite_5fminor_18',['string_view_lite_MINOR',['../_tabulate_8h.html#a065c6e562b66c1662dd4b44d82e1b200',1,'Tabulate.h']]],
+  ['string_5fview_5flite_5fpatch_19',['string_view_lite_PATCH',['../_tabulate_8h.html#a324c94f114d0ed9ca7f10a7e92912e10',1,'Tabulate.h']]],
+  ['string_5fview_5flite_5fversion_20',['string_view_lite_VERSION',['../_tabulate_8h.html#a50645bb0259a6c07a7a237554a4b3d5e',1,'Tabulate.h']]],
+  ['struct_5ft_21',['struct_t',['../structnonstd_1_1optional__lite_1_1detail_1_1struct__t.html',1,'nonstd::optional_lite::detail::struct_t&lt; T &gt;'],['../structnonstd_1_1variants_1_1detail_1_1struct__t.html',1,'nonstd::variants::detail::struct_t&lt; T &gt;']]],
+  ['swap_22',['swap',['../classnonstd_1_1variants_1_1variant.html#a405191e6f9c72bf9d2283117c53a6d28',1,'nonstd::variants::variant::swap()'],['../classnonstd_1_1optional__lite_1_1optional.html#a473a8646a91f486fd499f58db3cc15a7',1,'nonstd::optional_lite::optional::swap()'],['../namespacenonstd_1_1variants.html#a1b01caeae7425cfbf1d9405ccf785caf',1,'nonstd::variants::swap()'],['../namespacenonstd_1_1optional__lite.html#ab1410153235f5900a1006bce2bf4f140',1,'nonstd::optional_lite::swap()']]]
+];

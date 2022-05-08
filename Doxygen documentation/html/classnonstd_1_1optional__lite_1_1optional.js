@@ -1,0 +1,26 @@
+var classnonstd_1_1optional__lite_1_1optional =
+[
+    [ "value_type", "classnonstd_1_1optional__lite_1_1optional.html#afb67abeaaad640aa25b81f8564e53476", null ],
+    [ "optional", "classnonstd_1_1optional__lite_1_1optional.html#ab4b9bcd1052a174bc0db48f882e56316", null ],
+    [ "optional", "classnonstd_1_1optional__lite_1_1optional.html#a12154ea396c33ebb669643908f9d885d", null ],
+    [ "optional", "classnonstd_1_1optional__lite_1_1optional.html#afdf54512fc239c7e871bc314cc1811db", null ],
+    [ "optional", "classnonstd_1_1optional__lite_1_1optional.html#a42bee710920018175be2cdf6b275e77c", null ],
+    [ "optional", "classnonstd_1_1optional__lite_1_1optional.html#ad7affb46d381a36c869146c1439d1e5e", null ],
+    [ "~optional", "classnonstd_1_1optional__lite_1_1optional.html#a85649b228f6422000d4ddbf67e4d79be", null ],
+    [ "has_value", "classnonstd_1_1optional__lite_1_1optional.html#a8d36137e398950bfbd63e02d2dac7789", null ],
+    [ "operator safe_bool", "classnonstd_1_1optional__lite_1_1optional.html#a540ac15713bad0c4cec887505e8891c5", null ],
+    [ "operator*", "classnonstd_1_1optional__lite_1_1optional.html#a1016a6cc722f02dea5c2eaf9c377493d", null ],
+    [ "operator*", "classnonstd_1_1optional__lite_1_1optional.html#a32348cca957ae29a906036f7cb328fcc", null ],
+    [ "operator->", "classnonstd_1_1optional__lite_1_1optional.html#a012ce05977283a1f8ca47f5f780a484a", null ],
+    [ "operator->", "classnonstd_1_1optional__lite_1_1optional.html#a352300d0bb7cabe46352c8e19c48e2c1", null ],
+    [ "operator=", "classnonstd_1_1optional__lite_1_1optional.html#aaee895f5d8c119315ec44d2cc6763f93", null ],
+    [ "operator=", "classnonstd_1_1optional__lite_1_1optional.html#abb5848fa58dde69d13e3a276248439ce", null ],
+    [ "operator=", "classnonstd_1_1optional__lite_1_1optional.html#a49a6065dd162fa58cdf64ebccca8906f", null ],
+    [ "operator=", "classnonstd_1_1optional__lite_1_1optional.html#a20d77743fd247d24433297c673bba89b", null ],
+    [ "reset", "classnonstd_1_1optional__lite_1_1optional.html#a024284c4c1a99a5bf0813c3ec5d6b5b9", null ],
+    [ "swap", "classnonstd_1_1optional__lite_1_1optional.html#a473a8646a91f486fd499f58db3cc15a7", null ],
+    [ "value", "classnonstd_1_1optional__lite_1_1optional.html#a96d1fee2fad2bb1ae239064125d8ed78", null ],
+    [ "value", "classnonstd_1_1optional__lite_1_1optional.html#ac7a4bfd161fc1facbbe0ba18908f7178", null ],
+    [ "value_or", "classnonstd_1_1optional__lite_1_1optional.html#a4dd8f8fc1549fee78bd80f1977b504dd", null ],
+    [ "optional", "classnonstd_1_1optional__lite_1_1optional.html#aa756d67787488b1e2bba885ce4da6fe0", null ]
+];
